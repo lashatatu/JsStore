@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "build": "webpack"
+    "dev": "nodemon index.js"
   },
   "heroku-run-build-script": true,
   "keywords": [],
